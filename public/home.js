@@ -117,21 +117,28 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>Welcome to GuardianBridge – Your Trusted Partner in USDT/ERC20 Escrow Trade
+            <p>Welcome to CRYPTO.COM TRUSTED ESCROW P2P TRADE – Your Reliable Partner for Secure USDT/BEP20/POLYGON Transactions!
 
-At GuardianBridge, we specialize in providing a secure, neutral, and transparent escrow service tailored specifically for USDT (ERC20) transactions. In the fast-moving world of digital asset trading, trust and security are paramount. Our platform acts as a reliable intermediary between transacting parties, ensuring that funds are safely held in escrow until all agreed terms are met.
+At CRYPTO.COM TRUSTED ESCROW P2P TRADE, we provide a safe, transparent, and neutral escrow service built for USDT and ETH trades. In today’s fast-paced digital asset market, trust and security are everything—and that’s exactly what we deliver.
 
-With a focus on compliance, confidentiality, and professional handling, GuardianBridge is designed to mitigate risk and eliminate fraud from peer-to-peer cryptocurrency exchanges. Whether you’re buying or selling, our structured process offers peace of mind and accountability throughout the entire transaction.
+Our platform acts as a professional intermediary, securely holding funds in escrow until both parties confirm that all terms have been met. With a strong focus on compliance, confidentiality, and fraud prevention, we make peer-to-peer trading worry-free and efficient.
 
-Why Choose GuardianBridge?
- • ✅ Independent third-party holding of USDT/ERC20 assets
- • ✅ Step-by-step verification and confirmation from both parties
- • ✅ Immediate release of funds upon agreement fulfillment
- • ✅ Professional dispute resolution and support
- • ✅ Trusted for high-value and international transactions
+Whether you’re buying or selling, our structured process ensures peace of mind, accountability, and fairness from start to finish.
 
-Secure your trades with confidence.
-Trade the smart way—with GuardianBridge.</p>
+Why Trade With Us?
+
+✅ Independent third-party custody of USDT/ETH assets
+
+✅ Step-by-step verification for both buyer and seller
+
+✅ Instant release of funds once conditions are met
+
+✅ Professional dispute resolution & dedicated support
+
+✅ Trusted worldwide for high-value and cross-border trades
+
+
+Secure your crypto transactions with confidence. Trade smart, trade safe—with CRYPTO.COM TRUSTED ESCROW P2P TRADE.</p>
           </div>
         `
         break
